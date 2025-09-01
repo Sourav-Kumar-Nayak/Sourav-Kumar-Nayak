@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sourav
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F700&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F700&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
