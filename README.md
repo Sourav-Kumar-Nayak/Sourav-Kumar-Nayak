@@ -29,7 +29,7 @@
 ---
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sourav-Kumar-Nayakshow_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sourav-Kumar-Nayak&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-Kumar-Nayak&layout=compact&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sourav-Kumar-Nayak&theme=radical)
 
@@ -40,8 +40,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/Sourav-Kumar-Nayak/Sourav-Kumar-Nayak/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
