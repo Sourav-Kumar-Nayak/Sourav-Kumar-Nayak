@@ -41,11 +41,11 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Sourav-Kumar-Nayak/Sourav-Kumar-Nayak/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-kumar-nayak/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://sourav-kumar-nayak.vercel.app/)  
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)  
+![Visitor Count](https://komarev.com/ghpvc/?username=Sourav-Kumar-Nayak&color=brightgreen)  
