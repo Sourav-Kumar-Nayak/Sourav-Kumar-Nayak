@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.souravnayak.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+Automation+Engineer+%40+SalesAmore;Full-Stack+Developer+%7C+Spring+Boot+%2B+Angular+%2B+Next.js;AI+%26+ML+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+Automation+Engineer;Full-Stack+Developer+%7C+Spring+Boot+%2B+Angular+%2B+Next.js;AI+%26+ML+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
